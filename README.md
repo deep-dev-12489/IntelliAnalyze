@@ -63,7 +63,7 @@ Obtain a **Google Gemini API Key** from [Google AI Studio](https://aistudio.goog
 ### 2. Clone and Install
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/IntelliAnalyze.git
+git clone https://github.com/deep-dev-12489/IntelliAnalyze.git
 cd IntelliAnalyze
 
 # Install dependencies
